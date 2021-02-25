@@ -21,4 +21,4 @@ http://localhost:4040/api/mensagem/start
 
 Após isso volte ao console das API's e veja as mensagens transitando.
 
-Para ver esse processo, assita o vídeo StartInstances.mp4 na raíz do repositório.
+Para ver esse processo sem executar esses passos, assista o vídeo StartInstances.mp4 na raíz do repositório.
