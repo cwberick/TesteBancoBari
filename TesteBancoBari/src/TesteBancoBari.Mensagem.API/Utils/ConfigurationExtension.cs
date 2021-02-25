@@ -8,9 +8,9 @@ namespace TesteBancoBari.Mensagem.API.Utils
 {
     public static class ConfigurationExtensions
     {
-        public static string GetMessageQueueConnection(this IConfiguration configuration, string name)
+        public static string GetMessageQueueConnection(this IConfiguration configuration)
         {
-            return configuration?.GetSection("MessageQueueConnection")?[name];
+            return configuration?.GetSection("MessageQueueConnection")?.Value;
         }
     }
 }

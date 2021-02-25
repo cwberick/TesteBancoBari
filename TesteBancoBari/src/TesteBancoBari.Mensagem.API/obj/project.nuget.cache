@@ -1,16 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "13440Pi5ZFXOWwYy2FLJZAZrX1VjXBc8RhmxggTLldvsJpymyC1oKex1rrBviGM0tRRLn5CiGyl654ETdCIlDw==",
+  "dgSpecHash": "BDR/xQ/KYHyHSKKVGb02luTtugx1bXXEwyHXsaF3BtiWERaNvPDQbDBOBReQf9ViIu+96zXyGFyIHLrbcpGbig==",
   "success": true,
-  "projectFilePath": "C:\\git\\TesteBari\\TesteBancoBari\\src\\TesteBancoBari.Mensagem.API\\TesteBancoBari.Mensagem.API.csproj",
+  "projectFilePath": "C:\\git\\erick\\TesteBancoBari\\TesteBancoBari\\src\\TesteBancoBari.Mensagem.API\\TesteBancoBari.Mensagem.API.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\cwber\\.nuget\\packages\\easynetq\\6.3.1\\easynetq.6.3.1.nupkg.sha512",
-    "C:\\Users\\cwber\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
-    "C:\\Users\\cwber\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512",
-    "C:\\Users\\cwber\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
-    "C:\\Users\\cwber\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
-    "C:\\Users\\cwber\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
-    "C:\\Users\\cwber\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+    "C:\\Users\\Erickson\\.nuget\\packages\\easynetq\\6.3.1\\easynetq.6.3.1.nupkg.sha512",
+    "C:\\Users\\Erickson\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Erickson\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512",
+    "C:\\Users\\Erickson\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Erickson\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\Erickson\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Erickson\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
+    "C:\\Users\\Erickson\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
   ],
   "logs": []
 }

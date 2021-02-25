@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\TesteBari\\TesteBancoBari\\src\\TesteBancoBari.Mensagem.API\\TesteBancoBari.Mensagem.API.csproj": {}
+    "C:\\git\\erick\\TesteBancoBari\\TesteBancoBari\\src\\TesteBancoBari.Mensagem.API\\TesteBancoBari.Mensagem.API.csproj": {}
   },
   "projects": {
-    "C:\\git\\TesteBari\\TesteBancoBari\\src\\TesteBancoBari.Mensagem.API\\TesteBancoBari.Mensagem.API.csproj": {
+    "C:\\git\\erick\\TesteBancoBari\\TesteBancoBari\\src\\TesteBancoBari.Mensagem.API\\TesteBancoBari.Mensagem.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\TesteBari\\TesteBancoBari\\src\\TesteBancoBari.Mensagem.API\\TesteBancoBari.Mensagem.API.csproj",
+        "projectUniqueName": "C:\\git\\erick\\TesteBancoBari\\TesteBancoBari\\src\\TesteBancoBari.Mensagem.API\\TesteBancoBari.Mensagem.API.csproj",
         "projectName": "TesteBancoBari.Mensagem.API",
-        "projectPath": "C:\\git\\TesteBari\\TesteBancoBari\\src\\TesteBancoBari.Mensagem.API\\TesteBancoBari.Mensagem.API.csproj",
-        "packagesPath": "C:\\Users\\cwber\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\TesteBari\\TesteBancoBari\\src\\TesteBancoBari.Mensagem.API\\obj\\",
+        "projectPath": "C:\\git\\erick\\TesteBancoBari\\TesteBancoBari\\src\\TesteBancoBari.Mensagem.API\\TesteBancoBari.Mensagem.API.csproj",
+        "packagesPath": "C:\\Users\\Erickson\\.nuget\\packages\\",
+        "outputPath": "C:\\git\\erick\\TesteBancoBari\\TesteBancoBari\\src\\TesteBancoBari.Mensagem.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\cwber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Erickson\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,9 +26,10 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\git\\TesteBari\\TesteBancoBari\\src\\TesteBancoBari.MessageBus\\TesteBancoBari.MessageBus.csproj": {
-                "projectPath": "C:\\git\\TesteBari\\TesteBancoBari\\src\\TesteBancoBari.MessageBus\\TesteBancoBari.MessageBus.csproj"
+              "C:\\git\\erick\\TesteBancoBari\\TesteBancoBari\\src\\TesteBancoBari.MessageBus\\TesteBancoBari.MessageBus.csproj": {
+                "projectPath": "C:\\git\\erick\\TesteBancoBari\\TesteBancoBari\\src\\TesteBancoBari.MessageBus\\TesteBancoBari.MessageBus.csproj"
               }
             }
           }
@@ -41,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
@@ -57,6 +59,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.12, 3.1.12]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -65,21 +73,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\git\\TesteBari\\TesteBancoBari\\src\\TesteBancoBari.MessageBus\\TesteBancoBari.MessageBus.csproj": {
+    "C:\\git\\erick\\TesteBancoBari\\TesteBancoBari\\src\\TesteBancoBari.MessageBus\\TesteBancoBari.MessageBus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\TesteBari\\TesteBancoBari\\src\\TesteBancoBari.MessageBus\\TesteBancoBari.MessageBus.csproj",
+        "projectUniqueName": "C:\\git\\erick\\TesteBancoBari\\TesteBancoBari\\src\\TesteBancoBari.MessageBus\\TesteBancoBari.MessageBus.csproj",
         "projectName": "TesteBancoBari.MessageBus",
-        "projectPath": "C:\\git\\TesteBari\\TesteBancoBari\\src\\TesteBancoBari.MessageBus\\TesteBancoBari.MessageBus.csproj",
-        "packagesPath": "C:\\Users\\cwber\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\TesteBari\\TesteBancoBari\\src\\TesteBancoBari.MessageBus\\obj\\",
+        "projectPath": "C:\\git\\erick\\TesteBancoBari\\TesteBancoBari\\src\\TesteBancoBari.MessageBus\\TesteBancoBari.MessageBus.csproj",
+        "packagesPath": "C:\\Users\\Erickson\\.nuget\\packages\\",
+        "outputPath": "C:\\git\\erick\\TesteBancoBari\\TesteBancoBari\\src\\TesteBancoBari.MessageBus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\cwber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Erickson\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -91,6 +99,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -102,6 +111,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "EasyNetQ": {
               "target": "Package",
@@ -131,7 +141,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

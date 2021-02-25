@@ -13,7 +13,7 @@ namespace TesteBancoBari.Mensagem.API.Configuration
     {
         public static void AddMessageBusConfiguration(this IServiceCollection services, IConfiguration configuration)
         {
-            services.AddMessageBus(configuration.GetMessageQueueConnection("MessageQueueConnection"));
+            services.AddMessageBus(configuration.GetMessageQueueConnection());
         }
     }
 }

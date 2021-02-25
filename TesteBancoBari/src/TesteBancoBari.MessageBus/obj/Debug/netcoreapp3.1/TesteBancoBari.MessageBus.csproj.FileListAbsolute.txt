@@ -16,3 +16,12 @@ C:\git\TesteBari\TesteBancoBari\src\TesteBancoBari.MessageBus\obj\Debug\netcorea
 C:\git\TesteBari\TesteBancoBari\src\TesteBancoBari.MessageBus\obj\Debug\netcoreapp3.1\TesteBancoBari.MessageBus.AssemblyInfo.cs
 C:\git\TesteBari\TesteBancoBari\src\TesteBancoBari.MessageBus\obj\Debug\netcoreapp3.1\TesteBancoBari.MessageBus.dll
 C:\git\TesteBari\TesteBancoBari\src\TesteBancoBari.MessageBus\obj\Debug\netcoreapp3.1\TesteBancoBari.MessageBus.pdb
+C:\git\erick\TesteBancoBari\TesteBancoBari\src\TesteBancoBari.MessageBus\bin\Debug\netcoreapp3.1\TesteBancoBari.MessageBus.deps.json
+C:\git\erick\TesteBancoBari\TesteBancoBari\src\TesteBancoBari.MessageBus\bin\Debug\netcoreapp3.1\TesteBancoBari.MessageBus.dll
+C:\git\erick\TesteBancoBari\TesteBancoBari\src\TesteBancoBari.MessageBus\bin\Debug\netcoreapp3.1\TesteBancoBari.MessageBus.pdb
+C:\git\erick\TesteBancoBari\TesteBancoBari\src\TesteBancoBari.MessageBus\obj\Debug\netcoreapp3.1\TesteBancoBari.MessageBus.csprojAssemblyReference.cache
+C:\git\erick\TesteBancoBari\TesteBancoBari\src\TesteBancoBari.MessageBus\obj\Debug\netcoreapp3.1\TesteBancoBari.MessageBus.AssemblyInfoInputs.cache
+C:\git\erick\TesteBancoBari\TesteBancoBari\src\TesteBancoBari.MessageBus\obj\Debug\netcoreapp3.1\TesteBancoBari.MessageBus.AssemblyInfo.cs
+C:\git\erick\TesteBancoBari\TesteBancoBari\src\TesteBancoBari.MessageBus\obj\Debug\netcoreapp3.1\TesteBancoBari.MessageBus.csproj.CoreCompileInputs.cache
+C:\git\erick\TesteBancoBari\TesteBancoBari\src\TesteBancoBari.MessageBus\obj\Debug\netcoreapp3.1\TesteBancoBari.MessageBus.dll
+C:\git\erick\TesteBancoBari\TesteBancoBari\src\TesteBancoBari.MessageBus\obj\Debug\netcoreapp3.1\TesteBancoBari.MessageBus.pdb

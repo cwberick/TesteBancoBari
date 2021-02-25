@@ -210,19 +210,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cwber\\.nuget\\packages\\": {}
+    "C:\\Users\\Erickson\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\TesteBari\\TesteBancoBari\\src\\TesteBancoBari.MessageBus\\TesteBancoBari.MessageBus.csproj",
+      "projectUniqueName": "C:\\git\\erick\\TesteBancoBari\\TesteBancoBari\\src\\TesteBancoBari.MessageBus\\TesteBancoBari.MessageBus.csproj",
       "projectName": "TesteBancoBari.MessageBus",
-      "projectPath": "C:\\git\\TesteBari\\TesteBancoBari\\src\\TesteBancoBari.MessageBus\\TesteBancoBari.MessageBus.csproj",
-      "packagesPath": "C:\\Users\\cwber\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\TesteBari\\TesteBancoBari\\src\\TesteBancoBari.MessageBus\\obj\\",
+      "projectPath": "C:\\git\\erick\\TesteBancoBari\\TesteBancoBari\\src\\TesteBancoBari.MessageBus\\TesteBancoBari.MessageBus.csproj",
+      "packagesPath": "C:\\Users\\Erickson\\.nuget\\packages\\",
+      "outputPath": "C:\\git\\erick\\TesteBancoBari\\TesteBancoBari\\src\\TesteBancoBari.MessageBus\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\cwber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Erickson\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -234,6 +234,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -245,6 +246,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "EasyNetQ": {
             "target": "Package",
@@ -274,7 +276,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

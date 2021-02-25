@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "sV/LmGNbopS38Ejb5QTDuTsdEVg8sdNsFWHxc+cZsMdeqHyqeJsDCcK18jeaBjUwQI+JVEIDq1bA/d8gvMm6KA==",
+  "dgSpecHash": "SkcGxjlHepa9QVEdH1lBU5Bs0oxVYU/BJXd/FfLS3TGU3erzERawge3LB4K1cBtm1QHOmfJT7/mVsxWCqvTvxQ==",
   "success": true,
-  "projectFilePath": "C:\\git\\TesteBari\\TesteBancoBari\\src\\TesteBancoBari.MessageBus\\TesteBancoBari.MessageBus.csproj",
+  "projectFilePath": "C:\\git\\erick\\TesteBancoBari\\TesteBancoBari\\src\\TesteBancoBari.MessageBus\\TesteBancoBari.MessageBus.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\cwber\\.nuget\\packages\\easynetq\\6.3.1\\easynetq.6.3.1.nupkg.sha512",
-    "C:\\Users\\cwber\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
-    "C:\\Users\\cwber\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
-    "C:\\Users\\cwber\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
-    "C:\\Users\\cwber\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
-    "C:\\Users\\cwber\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+    "C:\\Users\\Erickson\\.nuget\\packages\\easynetq\\6.3.1\\easynetq.6.3.1.nupkg.sha512",
+    "C:\\Users\\Erickson\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Erickson\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Erickson\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\Erickson\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Erickson\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }
