@@ -4,7 +4,7 @@ Rode o seguinte comando para iniciar o RabbitMQ.
  docker run -d --hostname rabbit-host --name rabbitmq -p 15672:15672 -p 5672:5672 rabbitmq:management
 ```
 
-navegue até a pasta "TesteBancoBari\src\TesteBancoBari.Mensagem.API", abra dois terminais e execute as seguintes linhas de comando em cada um:
+navegue até a pasta "TesteBancoBari\src\TesteBancoBari.Mensagem.API", abra dois terminais nesta pasta e execute as seguintes linhas de comando em cada um:
 
 ```
 dotnet run --urls=http://localhost:4000/
