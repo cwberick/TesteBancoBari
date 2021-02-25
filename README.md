@@ -4,6 +4,18 @@ Rode o seguinte comando para iniciar o RabbitMQ.
  docker run -d --hostname rabbit-host --name rabbitmq -p 15672:15672 -p 5672:5672 rabbitmq:management
 ```
 
-Depois abra o arquivo TesteBancoBari/TesteBancoBari.sln no Visual Studio.
+navegue até a pasta "TesteBancoBari\src\TesteBancoBari.Mensagem.API", abra dois terminais e execute as seguintes linhas de comando em cada um:
 
-Assista o vídeo StartIntances.mp4 para ver como criar as instâncias do microserviço e ver as mensangens transitando.
+```
+dotnet run --urls=http://localhost:4000/
+```
+
+```
+dotnet run --urls=http://localhost:4040/
+```
+
+Duas instâncias das API's estarão rodando, então abra duas abas do navegador e acesse em cada aba respectivamente:
+http://localhost:4000/api/mensagem/start
+http://localhost:4040/api/mensagem/start
+
+Após isso volte ao console das API's e veja as mensagens transitando.
