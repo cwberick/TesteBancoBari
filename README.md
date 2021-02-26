@@ -1,3 +1,7 @@
+Dependências:
+Docker
+.Net Core 3.1 (SDK ou Runtime)
+
 Abra um prompt de comando em uma máquina com o docker instalado.
 Rode o seguinte comando para iniciar o RabbitMQ.
 ```
